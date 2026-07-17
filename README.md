@@ -1,6 +1,6 @@
-# 🎙️ Karen Talks
-
 <div align="center">
+
+# 🎙️ Karen Talks
 
 ### AI-Powered Debate Platform
 
