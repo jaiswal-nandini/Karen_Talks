@@ -57,58 +57,6 @@ Whether you're preparing for interviews, practicing public speaking, improving c
 - google-generativeai
 - python-dotenv
 
----
-
-## 📂 Project Structure
-
-```
-Karen_Talks/
-│
-├── Karen.py
-├── requirements.txt
-├── .env
-├── assets/
-│
-├── README.md
-│
-└── screenshots/
-```
-
----
-
-## 🚀 Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/Karen_Talks.git
-```
-
-Move inside the project
-
-```bash
-cd Karen_Talks
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Create a `.env` file
-
-```env
-GEMINI_API_KEY=YOUR_API_KEY
-```
-
-Run the application
-
-```bash
-streamlit run Karen.py
-```
-
----
 
 ## 💡 How It Works
 
@@ -118,6 +66,7 @@ streamlit run Karen.py
 4. Enter your topic or opinion.
 5. Gemini AI generates intelligent debate responses.
 6. Continue the discussion naturally.
+7. Customize any personality and debate.
 
 ---
 
@@ -138,28 +87,9 @@ streamlit run Karen.py
 ### Home Page
 
 > Add screenshot here
+<img width="1913" height="887" alt="image" src="https://github.com/user-attachments/assets/8cd0d777-56ff-4514-ac90-e12147500669" />
 
-```
-screenshots/home.png
-```
 
-### Debate Interface
-
-> Add screenshot here
-
-```
-screenshots/debate.png
-```
-
-### Dark Mode
-
-> Add screenshot here
-
-```
-screenshots/darkmode.png
-```
-
----
 
 ## 🔮 Future Improvements
 
@@ -180,7 +110,7 @@ screenshots/darkmode.png
 
 This project requires a valid **Google Gemini API Key**.
 
-Create a `.env` file before running the application.
+## Create a `.env` file before running the application.
 
 ```
 GEMINI_API_KEY=YOUR_API_KEY
@@ -188,34 +118,10 @@ GEMINI_API_KEY=YOUR_API_KEY
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-Fork the repository, create a feature branch, and submit a Pull Request.
-
----
-
-## ⭐ Support
-
-If you found this project helpful, consider giving it a ⭐ on GitHub.
-
----
-
 ## 👩‍💻 Author
 
 **Nandini**
 
-Interested in:
-
-- Data Analytics
-- System Design
-- Product Management
-- AI Applications
-
-GitHub: https://github.com/yourusername
-
----
 
 ## 📄 License
 
